@@ -1,2 +1,2 @@
-# gzhuuser.github.io
-introduction repository
+# 个人简介
+本人对嵌入式开发和人工智能技术很感兴趣, 会经常研究和NLP相关的技术和嵌入式硬件
